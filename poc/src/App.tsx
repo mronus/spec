@@ -90,7 +90,7 @@ function App() {
             <div className="flex items-center gap-4">
               <img src="favicon.svg" alt="Spec Logo" className="w-12 h-12" />
               <div>
-                <h1 className="text-3xl font-bold">Spec - LLM-Native Programming Language</h1>
+                <h1 className="text-3xl font-bold">Spec - A Language-Agnostic IR for Autonomous Software Development</h1>
                 <p className="text-muted-foreground mt-1">
                   Generate IR specifications from requirements
                 </p>
@@ -245,7 +245,7 @@ function App() {
       <footer className="border-t">
         <div className="container mx-auto px-4 py-4">
           <p className="text-center text-sm text-muted-foreground">
-            Spec - LLM-Native Programming Language | POC for autonomous agent-driven software specification
+            Spec - A Language-Agnostic IR for Autonomous Software Development | POC for autonomous agent-driven software specification
           </p>
         </div>
       </footer>
