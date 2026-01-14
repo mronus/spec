@@ -1,0 +1,12 @@
+<svg width="128" height="128" viewBox="22 26 84 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blocks representing IR components -->
+  <rect x="24" y="28" width="32" height="32" rx="6" fill="#4C6EF5"/>
+  <rect x="72" y="28" width="32" height="32" rx="6" fill="#4C6EF5"/>
+  <rect x="24" y="72" width="32" height="32" rx="6" fill="#4C6EF5"/>
+  <rect x="72" y="72" width="32" height="32" rx="6" fill="#4C6EF5"/>
+  <!-- Connecting lines -->
+  <line x1="40" y1="60" x2="40" y2="72" stroke="#364FC7" stroke-width="4" />
+  <line x1="88" y1="60" x2="88" y2="72" stroke="#364FC7" stroke-width="4" />
+  <line x1="56" y1="44" x2="72" y2="44" stroke="#364FC7" stroke-width="4" />
+  <line x1="56" y1="88" x2="72" y2="88" stroke="#364FC7" stroke-width="4" />
+</svg>
